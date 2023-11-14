@@ -1,0 +1,25 @@
+{
+
+    "summer":{
+
+        "y2017" : "https://www.jtuc-rengo.or.jp/activity/roudou/shuntou/2017/yokyu_kaito/kaito_no7_ichiji_20170705.pdf?2718",
+        "y2018" : "https://www.jtuc-rengo.or.jp/activity/roudou/shuntou/2018/yokyu_kaito/kaito/no7/kaito_no7_ichiji.pdf?6213",
+        "y2019" : "https://www.jtuc-rengo.or.jp/activity/roudou/shuntou/2019/yokyu_kaito/kaito/no6/kaito_no6_ichiji.pdf?5180",
+        "y2020" : "https://www.jtuc-rengo.or.jp/activity/roudou/shuntou/2020/yokyu_kaito/kaito/no7/kaito_no7_ichiji.pdf?9029",
+        "y2021" : "https://www.jtuc-rengo.or.jp/activity/roudou/shuntou/2021/yokyu_kaito/kaito/kaito_no7_ichiji.pdf?890",
+        "y2022" : "https://www.jtuc-rengo.or.jp/activity/roudou/shuntou/2022/yokyu_kaito/kaito/kaito_no7_ichiji.pdf?9996",
+        "y2023" : "https://www.jtuc-rengo.or.jp/activity/roudou/shuntou/2023/yokyu_kaito/kaito/kaito_no7_ichiji.pdf?6229"
+    
+    },
+
+    "winter":{
+        "y2017" : "https://www.jtuc-rengo.or.jp/activity/roudou/shuntou/2017/yokyu_kaito/nenmatsu_ichiji_01.pdf?1851",
+        "y2018" : "https://www.jtuc-rengo.or.jp/activity/roudou/shuntou/2018/yokyu_kaito/kaito/nenmatsu/ichiji_01.pdf?3961",
+        "y2019" : "https://www.jtuc-rengo.or.jp/activity/roudou/shuntou/2019/yokyu_kaito/kaito/nenmatsu/ichiji_01.pdf?7778",
+        "y2020" : "https://www.jtuc-rengo.or.jp/activity/roudou/shuntou/2020/yokyu_kaito/kaito/nenmatsu/ichiji_01.pdf?1209",
+        "y2021" : "https://www.jtuc-rengo.or.jp/activity/roudou/shuntou/2021/yokyu_kaito/kaito/nenmatsu/ichiji_01.pdf?1586",
+        "y2022" : "https://www.jtuc-rengo.or.jp/activity/roudou/shuntou/2022/yokyu_kaito/kaito/nenmatsu/ichiji_01.pdf?6298",
+        "y2023" : "https://www.jtuc-rengo.or.jp/activity/roudou/shuntou/2023/yokyu_kaito/kaito/nenmatsu/ichiji_01.pdf?6229"
+
+    }
+}
