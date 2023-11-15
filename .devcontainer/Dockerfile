@@ -9,7 +9,7 @@ WORKDIR /pdf_to_table
 COPY requirements.txt ${pwd}
 
 
-RUN apt update
+RUN apt clean && apt update
 RUN apt install -y software-properties-common vim gcc libgraphviz-dev 
 
 
